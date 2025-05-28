@@ -1,7 +1,7 @@
 # London System
 The London system is a solid opening for white. It is notorious for its simple ideas and solid structure. 
 ## General Set-up
-The general setup for white is the following:
+The main line is the following:
 
 ```chess
 fen: rnbqkbnr/pppppppp/8/8/3P1B2/2PBPN2/PP1N1PPP/R2QK2R b KQkq - 10 9
@@ -28,3 +28,4 @@ This allows us to open the h file. This can lead to some devious attacks.
 
 ## 2. Variations that black can play
 ## 3. Opposite castle attacking ideas
+## 4. Playing c4 or c3?
