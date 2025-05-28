@@ -1,2 +1,2 @@
 ## Requirements
-To be able to visualize chess boards in VSCode you need to install the 'Chess Viewer' extension by Ely Ronnen.
+To be able to visualize chess boards in VSCode you need to install the 'Chess Viewer' extension by Ely Ronnen. For usage I recommend reading the GitHub repository: https://github.com/eronnen/vscode-markdown-chess.
