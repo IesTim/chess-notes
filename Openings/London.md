@@ -24,7 +24,7 @@ Whenever black challenges the dark squared bishop we play bg3:
 1. d4 d5 2. Bf4 Nc6 3. e3 e6 4. Nf3 Bd6 5. Bg3 Bxg3 6. hxg3 *
 ```
 
-This allows us to open the h file. This can lead to some devious attacks.
+This allows us to open the h file. This can lead to attacks.
 
 ## 2. Variations that black can play
 ## 3. Opposite castle attacking ideas
