@@ -69,7 +69,7 @@ squares: d6
 After we succesfully developped the pieces in the opening, the goal is now to damage the white pawn structure by using the open c file. We can prepare by stacking rooks and queen on the c file, move away the knight and attack with the pawns. Whenever white tries to play c3, we can play b5 b4 to undermine the structure of white and create an advantage. 
 
 ### Advance Variation
-In the advance variation white pushes the e pawn:
+In the advance variation white pushes the e pawn, note that every variation where the white e pawn ends up on e5 is considered the advance variation:
 ```pgn
 orientation: black
 1. e4 c6 2. d4 d5 3. e5
